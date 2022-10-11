@@ -1,4 +1,5 @@
-![Hi there, I'm Emily](https://user-images.githubusercontent.com/103063934/194989734-9e2e2730-7dc4-43d4-b65b-7cf6cc30eeb3.png)
+![Hi there, I'm Emily](https://user-images.githubusercontent.com/103063934/195205577-0bd76536-3ab5-4371-b93d-e313c1b73111.png)
+
 
 <p align="center">
 Front-End Software Developer Certificate from <a href="https://turing.edu/">Turing School of Software & Design</a>
