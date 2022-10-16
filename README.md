@@ -16,11 +16,12 @@ Front-End Software Developer Certificate from <a href="https://turing.edu/">Turi
 </div>
 
 <div align="center">
-
-[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyjmiles&theme=gotham&show_icons=true)](https://github.com/emilyjmiles/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyjmiles&theme=gotham&layout=compact)](https://github.com/emilyjmiles/github-readme-stats)
-
+  <a href="https://github.com/emilyjmiles/github-readme-stats">
+    <img alt="Emily's GitHub stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=emilyjmiles&theme=gotham&show_icons=true" />
+  </a>
+  <a href="https://github.com/emilyjmiles/github-readme-stats">
+    <img alt="Emily's Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyjmiles&theme=gotham&layout=compact" />
+  </a>
 </div>
 
 <div align="left">
